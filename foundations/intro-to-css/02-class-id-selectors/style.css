@@ -2,3 +2,17 @@
     background-color: lightpink;
     font-family: Verdana, "DejaVy Sans", sans-serif;
 }
+
+.font-size {
+    font-size: x-large;
+}
+
+#two {
+    color: blue;
+    font-size: xx-large;
+}
+
+#four {
+    background-color: lightgreen;
+    font-weight: bold;
+}
